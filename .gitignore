@@ -1,0 +1,4 @@
+# Build output for the optional multi-page web version (see _src/build.py)
+_src/app/
+_src/standalone-box-map.html
+__pycache__/
