@@ -382,7 +382,7 @@ input[type="range"]{accent-color:var(--accent);width:100%;min-width:0}
 
   /* ---------- Tuner: microphone ---------- */
   const mic = {on: false, stream: null, src: null, an: null, buf: null, iv: null, hist: [], quiet: 0};
-  const MIC_FAIL = 'The microphone isn’t available here. If your browser asked, allow access and try again. The online version of this page can’t use the microphone at all; open the copy saved on your computer instead. You can always tune by ear with the reference tones.';
+  const MIC_FAIL = 'The microphone isn’t available here. If your browser asked, allow access and try again. Some embedded viewers block the microphone; if so, open the app directly in your browser. You can always tune by ear with the reference tones.';
   // YIN pitch detection (de Cheveigné & Kawahara), limited to 65–1000 Hz.
   function yin(buf, sr) {
     let rms = 0;

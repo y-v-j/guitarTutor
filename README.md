@@ -4,7 +4,9 @@ An offline guitar practice app in a single HTML file. It has finger drills, scal
 
 ## Use
 
-Download or clone the repository and open **`index.html`** in a modern browser (Firefox, Chrome, Edge or Safari). There is nothing to install and no build step, and it needs no internet connection. Everything, fonts included, is inside that one file, so it also works from a USB stick and in sandboxed browsers (Flatpak, Snap) that only get access to the file you open.
+**Online:** https://y-v-j.github.io/guitarTutor/
+
+**Offline:** download or clone the repository and open **`index.html`** in a modern browser (Firefox, Chrome, Edge or Safari). There is nothing to install and no build step, and it needs no internet connection. Everything, fonts included, is inside that one file, so it also works from a USB stick and in sandboxed browsers (Flatpak, Snap) that only get access to the file you open.
 
 ## What's inside
 
